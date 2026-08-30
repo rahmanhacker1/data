@@ -1,0 +1,13 @@
+pyquotex
+fastapi
+uvicorn
+websockets
+aiosqlite
+numpy
+pandas
+matplotlib
+mplfinance
+requests
+python-dotenv
+certifi
+aiofiles
